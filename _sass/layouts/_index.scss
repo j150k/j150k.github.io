@@ -1,0 +1,100 @@
+// Header text feature
+.section {
+  @extend %padding-regular;
+  width: 100%;
+  background-size: cover;
+
+}
+.section p:last-child {
+  margin-bottom: 0;
+}
+.section a {
+  color: $header-desc-link-color
+}
+.section h1, .section h2, .section h3, .section h4{
+  margin-bottom: 0;
+}
+
+//Detailed Section
+.eventintro, .eventinfo{
+  text-align: justify;
+  color: $header-desc-text-color;
+}
+.eventintro img{
+  float: right;
+  width: 40%;
+  padding: $padding-small/4 $padding-small;
+  @media (max-width: 700px) {
+    width: 100%;
+    padding: $padding-small $padding-large;
+    float: none;
+  }
+}
+.embedmaps{
+  padding: $padding-small/4;
+  background-color:  darken(#ff9924, 1%);
+}
+.sponsor{
+  text-align: center;
+}
+.sponsor img{
+  padding: $padding-small/4;
+  display: inline-block;
+  margin: 0 auto;
+}
+.shortcut{
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  .flexthird{
+    padding: $padding-small/2;
+  }
+  .button{
+    background: #ff9924;
+    border: 1px solid #ff9924;
+    color: #fff;
+    text-decoration: none;
+  }
+  .button:hover{
+    background: darken(#ff9924, 10%);
+  }
+  .flexthird img{
+    width: 48px;
+  }
+}
+
+// Post listing
+.posts {
+  background: #f6f6f6;
+  @extend %padding-regular;
+  .post-teaser {
+    background: #fff;
+    margin-bottom: 0;
+    background-size: $feature-image-size;
+    border-bottom: 1px solid $border-color;
+    padding: $padding-x-small;
+    p a {
+      @extend .body-link;
+    }
+  }
+  .excerpt {
+    margin-top: 1em;
+  }
+  .post-teaser h1{
+    font-size: 1.5em;
+  }
+}
+// Pagination
+.pagination .button {
+  margin: 0 1.5em;
+  i {
+    vertical-align: middle;
+  }
+}
+.pagination {
+  padding: $padding-small $padding-large 0 $padding-large;
+  text-align: center;
+  @media (max-width: 600px) {
+    padding: $padding-small;
+  }
+}

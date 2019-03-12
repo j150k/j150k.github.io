@@ -1,0 +1,51 @@
+// Typography
+$font-family-main: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+$font-family-headings: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+$font-size: 1.25em;
+
+// Padding
+$padding-large: 20%;
+$padding-small: 5%;
+$padding-x-small: 3%;
+
+
+/*
+Navy: 013d56
+Light blue: 0ce1fc
+Orange: ff9924
+Yellow:  ffe02e
+*/
+
+// Brand colours
+$brand-color: #013d56;
+$background-color: #fff;
+$border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
+
+// Gradient colours
+$gradient-orange-yellow: linear-gradient(to bottom right, #ff9924, #ffe02e);
+$gradient-blue-navy: linear-gradient(to bottom right, #0ce1fc, #013d56);
+$gradient-yellow-navy: linear-gradient(to bottom right, #ffe02e, #013d56);
+$gradient-navy-navy: linear-gradient(to bottom right, #013d56, lighten(#013d56, 20%));
+
+// Typography colours
+$text-color: #383838;
+$link-color: #ff9924;
+$selection-color: #013d56; // visible when highlighting text
+
+// Tags color
+$tags-color: #b0b0b0;
+
+//Search color
+$search-color: #999;
+
+// Header colours
+$header-link-color: #ffe02e;
+
+// Feature image for articles
+$feature-image-text-color: #fff;
+$feature-image-size: cover; // options include "cover", "contain", "auto"
+
+// Header description box
+$header-desc-background-color: #ffe02e;
+$header-desc-text-color: #FFF;
+$header-desc-link-color: #383838;

@@ -1,0 +1,122 @@
+---
+layout: default
+---
+<div class="home">
+
+  <div class="slides-container">
+    <ul class="rslides" id="slider">
+      <li><img src="{{ site.baseurl }}/assets/img/slide-1.jpg" alt=""></li>
+      <li><img src="{{ site.baseurl }}/assets/img/slide-2.jpg" alt=""></li>
+      <li><img src="{{ site.baseurl }}/assets/img/slide-3.jpg" alt=""></li>
+    </ul>
+  </div>
+
+  <!-- Intro -->
+  <div class="section navy-navy eventintro flexcontainer"
+   {% if site.theme_settings.header_text_feature_image %}style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')"{% endif %}>
+    <p><img src="{{ site.baseurl }}/assets/img/callout-img.png"><strong>J150K Endurance adalah event bersepeda lipat  dengan menempuh jarak +/- 150 Km.</strong><br><br>Mengulang kesuksesan J150K 2013 dan J150K 2017, di usia yang ke-10 tahun Jogja Folding Bike akan kembali melenggarakan kegiatan bersepeda JOGJA 150K dengan tema J150K Endurance. Peserta akan dimanjakan dengan pemandangan menawan  dengan menempuh rute sejauh +/- 150 kilometer, yang tentunya akan memberikan nuansa yang akan selalu dikenang dan selalu ingin kembali lagi ke Yogyakarta.</p>
+  </div>
+
+  <!-- Info -->
+  <div class="section orange-yellow eventinfo flexcontainer">
+    <div class="flexhalf">
+      <h3>Waktu Pelaksanaan</h3>
+      <p>Sabtu, 22 Juni 2019</p>
+      <h3>Start & Finish</h3>
+      <p>Kantor Wali Kota Yogyakarta (Balai Kota)</p>
+      <h3>Biaya Pendaftaran</h3>
+      <p>Rp. 500.000</p>
+    </div>
+    <div class="flexhalf embedmaps">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.910930991817!2d110.38887981478764!3d-7.799254379578132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a57635822479b%3A0xdf31bbd5127287a6!2sBalaikota+Yogyakarta!5e0!3m2!1sen!2sid!4v1552293166913" width="100%" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <div class="section shortcut flexcontainer">
+    <div class="flexhalf">
+      <img src="{{ site.baseurl }}/assets/img/information.png">
+      <h4>Info Event</h4>
+      Informasi event, fasilitas, design apparel, rute, dan lainnya.
+      <br><a class="button" href="{{ site.baseurl }}/info/">Baca Info Event</a>
+    </div>
+    <div class="flexhalf">
+      <img src="{{ site.baseurl }}/assets/img/hotel.png">
+      <h4>Info Hotel</h4>
+      Informasi hotel di sekitar venue event dan special offer peserta J150K Endurance.
+      <br><a class="button" href="{{ site.baseurl }}/hotel/">Baca Info Hotel</a>
+    </div>
+    <div class="flexhalf">
+      <img src="{{ site.baseurl }}/assets/img/box.png">
+      <h4>Fasilitas</h4>
+      Wangky, cycling cap, asuransi, musette bag, rehidrasi selama event, makan siang, medali. Berkesempatan mendapat doorprize sepeda brompton, dan hadiah hiburan lain.
+      <br><a class="button" href="{{ site.baseurl }}/info/#fasilitas">Baca Fasilitas Lengkap</a>
+    </div>
+    <div class="flexhalf">
+      <img src="{{ site.baseurl }}/assets/img/contract.png">
+      <h4>Peraturan</h4>
+      Peserta WAJIB bersepeda lipat dengan diameter ban maximum 22 inch, menggunakan helm, dan DILARANG menggunakan sepeda elektrik dalam bentuk throttle maupun pedal assist.
+      <br><a class="button" href="{{ site.baseurl }}/info/#peraturan">Baca Peraturan Lengkap</a>
+    </div>
+  </div>
+
+
+  <!--Berita Terbaru -->
+  <div class="posts flexcontainer">
+    <div class="flexhead"><h2>Berita Terbaru</h2></div>
+    {% for post in paginator.posts %}
+    <div class="post-teaser flexhalf">
+      <header>
+        <h1>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title }}
+          </a>
+        </h1>
+        <p class="meta">
+          {{ post.date | date: "%B %-d, %Y" }}
+        </p>
+      </header>
+      <div class="excerpt">
+        {% if post.image %}<img src="{{ post.image }}">{% endif %}
+        <br>{{ post.excerpt }}<br>
+        <a class="button" href="{{ post.url | relative_url }}">
+          {{ site.theme_settings.str_continue_reading }}
+        </a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}" class="button" >
+      <i class="fa fa-chevron-left"></i>
+      {{ site.theme_settings.str_previous_page }}
+    </a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}" class="button" >
+      {{ site.theme_settings.str_next_page }}
+      <i class="fa fa-chevron-right"></i>
+    </a>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  <!-- Sponsor Logo -->
+  <div class="section sponsor">
+    <div class="flexhead"><h2>Supported By</h2></div>
+    <img src="https://via.placeholder.com/200x100">
+    <img src="https://via.placeholder.com/200x100">
+    <br>
+    <img src="https://via.placeholder.com/200x100">
+    <img src="https://via.placeholder.com/200x100">
+    <img src="https://via.placeholder.com/200x100">
+    <img src="https://via.placeholder.com/200x100">
+    <br>
+    <img src="https://via.placeholder.com/200x100">
+    <img src="https://via.placeholder.com/200x100">
+    <img src="https://via.placeholder.com/200x100">
+    <img src="https://via.placeholder.com/200x100">
+  </div>
+
+</div>
