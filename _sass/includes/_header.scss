@@ -1,0 +1,110 @@
+.site-header {
+  @extend %padding-tiny;
+  background: $brand-color;
+  border-bottom: 1px solid $border-color;
+  display: inline-block;
+  float: left;
+  width: 100%;
+
+  a {
+    color: $header-link-color;
+  }
+
+  .avatar {
+    height: 5em;
+    width: 5em;
+    float: left;
+    margin-top: -3px;
+    border-radius: 0.2em;
+    margin-right: 1em;
+  }
+
+  .site-title {
+    float: left;
+    font-weight: bold;
+    font-size: 1em;
+    line-height: 1.5;
+  }
+  @media (max-width: 1100px) {
+      .avatar {
+        float: none;
+        margin: 0 auto;
+        display: block;
+      }
+  }
+
+  .site-nav {
+    padding-top: 2%;
+
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      line-height: 1.5;
+      float: right;
+      text-align: right;
+    }
+    li {
+      display: inline;
+      float: left;
+      margin-right: 1em;
+    }
+    .navdaftar{
+      background: #ffe02e;
+      color: #013d56;
+      border-radius: 0.25em;
+      padding: 0 0.5em;
+    }
+    @media (max-width: 1100px) {
+      padding: 0;
+      ul {
+        display: inline-block;
+        float: left;
+        padding-top: $padding-small;
+        text-align: center;
+        width: 100%;
+      }
+      li {
+        display: inline-block;
+        margin-right: 0.4em;
+        float: none;
+      }
+    }
+  }
+
+    /* --- Search form --- */
+    form {
+        border: 0;
+        border-bottom: 2px solid $search-color;
+        outline: 0;
+
+        *:focus {
+            outline: none;
+        }
+
+        input{
+            &[type=text] {
+                box-sizing: border-box;
+                border: 0;
+                outline: 0;
+                color: $search-color;
+            }
+
+            &::-moz-placeholder {
+                color: $search-color;
+                opacity: 1;
+            }
+
+            &:-ms-input-placeholder, &::-webkit-input-placeholder {
+                color: $search-color;
+            }
+        }
+
+        button {
+           border: none;
+           font-size: 0.9em;
+           background-color: $brand-color;
+           color: $search-color;
+        }
+    }
+}
