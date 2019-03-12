@@ -16,6 +16,13 @@
 	<!-- RSS -->
 	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | relative_url }}" />
 
+	<!-- Edit by Spica: responsive slides -->
+	{% if page.layout == 'home' %}
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="{{ "/assets/css/responsiveslides.css" | relative_url }}">
+	<script src="{{ site.baseurl }}/assets/js/responsiveslides.min.js"></script>
+	{% endif %}
+
 	<!-- Font Awesome -->
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
@@ -28,13 +35,6 @@
 	{% if site.theme_settings.katex and page.id %}
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0-alpha/dist/katex.min.css" integrity="sha384-BTL0nVi8DnMrNdMQZG1Ww6yasK9ZGnUxL1ZWukXQ7fygA1py52yPp9W4wrR00VML" crossorigin="anonymous">
 	<script src="https://cdn.jsdelivr.net/npm/katex@0.10.0-alpha/dist/katex.min.js" integrity="sha384-y6SGsNt7yZECc4Pf86XmQhC4hG2wxL6Upkt9N1efhFxfh6wlxBH0mJiTE8XYclC1" crossorigin="anonymous"></script>
-	{% endif %}
-
-	<!-- Edit by Spica: responsive slides -->
-	{% if page.layout == 'home' %}
-	<link rel="stylesheet" href="{{ "/assets/css/responsiveslides.css" | relative_url }}">
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-	<script src="{{ site.baseurl }}/assets/js/responsiveslides.min.js"></script>
 	{% endif %}
 
 	<!-- Google Analytics -->
