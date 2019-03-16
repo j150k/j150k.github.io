@@ -95,3 +95,15 @@ a.button {
 .navy-navy{
   background-image: $gradient-navy-navy;
 }
+// header
+.bodypage{
+  .post-content{
+    h3{
+      display: block;
+      background: #013d56;
+      padding: 0 $padding-small 0 $padding-x-small;
+      color: #fff;
+      border-left: 10px solid #ffe02e;
+    }
+  }
+}
