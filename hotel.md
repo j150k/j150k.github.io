@@ -6,20 +6,128 @@ permalink: /hotel/
 feature-img:
 ---
 
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
+Panitia J150K Endurance bekerja sama dengan beberapa hotel di dekat venue untuk memudahkan peserta mendapatkan akomodasi atau tempat menginap.
 
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
+<hr>
 
-Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
+**Kamar tersedia, setiap kamar dapat ditempati 2 orang**  
+*Update: 19/03/2019 - 07.30 WIB*
 
-Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula *semper consectetur sagittis*, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.
+Hotel | Single Bed  | Twin Bed
+--- | --- | ---
+**Gaia Cosmo** | 10-20 | 10-20
+**POP! Timoho** | 63 | 63
+**@HOM Premiere** | 54 | 54
+**Favehotel Kusumanegara** | 41 | 58
+**Asana Grove** | 23 | 15
 
-Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.
+> #### Informasi ketersediaan kamar dan booking: 08112952803 (Sisca)
 
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
+<hr>
 
-Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.
+### Hotel Gaia Cosmo
+<div class="slides-container">
+  <ul class="rslides" id="slider-gaia">
+    <li><img src="{{ site.baseurl }}/assets/img/gaia/gaia-deluxe-twin.jpg" alt=""><p class="caption">Gaia Cosmo - Deluxe Twin</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/gaia/gaia-deluxe-king.jpg" alt=""><p class="caption">Gaia Cosmo - Deluxe King</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/gaia/gaia-deluxe-toilet.jpg" alt=""><p class="caption">Gaia Cosmo - Deluxe Toilet</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/gaia/gaia-lobby.jpg" alt=""><p class="caption">Gaia Cosmo - Lobby</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/gaia/gaia-exterior.jpg" alt=""><p class="caption">Gaia Cosmo - Exterior</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/gaia/gaia-restaurant.jpg" alt=""><p class="caption">Gaia Cosmo - Restaurant</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/gaia/gaia-bar.jpg" alt=""><p class="caption">Gaia Cosmo - Bar & Cafe</p></li>
+  </ul>
+</div>
 
-Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
+<iframe src="https://www.google.com/maps/d/embed?mid=1Lfx0fGynpO260FPH2bIRxJxtDEgk2c77" width="100%" height="300"></iframe>
+Hotel ini berada di Jl. Ipda Tut Harsono No.16 yang hanya berjarak 200 meter dari venue J150K Endurance Balai Kota Yogyakarta.
+
+* **Harga room (include breakfast)**: Rp. 680.000
+* **Website**: [https://gaiacosmo.com/](https://gaiacosmo.com/)
+* **Booking**: 08112952803 (Sisca)
+
+<hr class="divider">
+
+### Hotel POP! Timoho
+<div class="slides-container">
+  <ul class="rslides" id="slider-pop">
+    <li><img src="{{ site.baseurl }}/assets/img/pop/pop-bedroom-1.jpg" alt=""><p class="caption">POP! Timoho - Bedroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/pop/pop-bedroom-2.jpg" alt=""><p class="caption">POP! Timoho - Bedroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/pop/pop-bedroom-3.jpg" alt=""><p class="caption">POP! Timoho - Bedroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/pop/pop-bedroom-4.jpg" alt=""><p class="caption">POP! Timoho - Bedroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/pop/pop-exterior.jpg" alt=""><p class="caption">POP! Timoho - Exterior</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/pop/pop-lobby.jpg" alt=""><p class="caption">POP! Timoho - Lobby</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/pop/pop-cafe.jpg" alt=""><p class="caption">POP! Timoho - Cafe & Lounge</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/pop/pop-common-space.jpg" alt=""><p class="caption">POP! Timoho - Common Space</p></li>
+  </ul>
+</div>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1Xxk7KFuRErW_7uWxNONnpmVYJOuHaxhD" width="100%" height="300"></iframe>
+Hotel ini berada di Jl. Ipda Tut Harsono No.11 yang hanya berjarak 200 meter dari venue J150K Endurance Balai Kota Yogyakarta.
+
+* **Harga room (include breakfast)**: Rp. 375.000
+* **Website**: [https://www.pophotels.com/POP!-Timoho](https://www.pophotels.com/POP!-Timoho)
+* **Booking**: 08112952803 (Sisca)
+
+<hr class="divider">
+
+### Hotel @HOM Premiere
+<div class="slides-container">
+  <ul class="rslides" id="slider-hom">
+    <li><img src="{{ site.baseurl }}/assets/img/hom/hom-bedroom-1.jpg" alt=""><p class="caption">@HOM Premiere - Bedroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/hom/hom-bedroom-2.jpg" alt=""><p class="caption">@HOM Premiere - Bedroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/hom/hom-lounge.jpg" alt=""><p class="caption">@HOM Premiere - Lounge</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/hom/hom-interior.jpg" alt=""><p class="caption">@HOM Premiere - Interior</p></li>
+  </ul>
+</div>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1aLUWVg9ssEqDrAXFJP0xWlBPaxCJjg_q" width="100%" height="300"></iframe>
+Hotel ini berada di Jl. Ipda Tut Harsono No.22 yang hanya berjarak 200 meter dari venue J150K Endurance Balai Kota Yogyakarta.
+
+* **Harga room (include breakfast)**: Rp. 400.000
+* **Website**: [http://www.horison-group.com/hotels/58/%40Hom+Premiere+Timoho+by+Horison](http://www.horison-group.com/hotels/58/%40Hom+Premiere+Timoho+by+Horison)
+* **Booking**: 08112952803 (Sisca)
+
+<hr class="divider">
+
+### Hotel Fave Kusumanegara
+<div class="slides-container">
+  <ul class="rslides" id="slider-fave">
+    <li><img src="{{ site.baseurl }}/assets/img/fave/fave-bedroom-1.jpg" alt=""><p class="caption">Favehotel Kusumanegara - Bedroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/fave/fave-bedroom-2.jpg" alt=""><p class="caption">Favehotel Kusumanegara - Bedroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/fave/fave-bedroom-3.jpg" alt=""><p class="caption">Favehotel Kusumanegara - Bedroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/fave/fave-lounge.jpg" alt=""><p class="caption">Favehotel Kusumanegara - Lounge</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/fave/fave-bar-cafe.jpg" alt=""><p class="caption">Favehotel Kusumanegara - Bar & Cafe</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/fave/fave-swimming-pool.jpg" alt=""><p class="caption">Favehotel Kusumanegara - Swimming Pool</p></li>
+  </ul>
+</div>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1aEwuLTLbatcHBVqA6kUNtBck7GonFvGL" width="100%" height="300"></iframe>
+Hotel ini berada di Jl. Kusumanegara No.91 yang berjarak 800 meter dari venue J150K Endurance Balai Kota Yogyakarta.
+
+* **Harga room (include breakfast)**: Rp. 370.000
+* **Website**: [https://www.favehotels.com/en/hotel/view/28/favehotel-kusumanegara](https://www.favehotels.com/en/hotel/view/28/favehotel-kusumanegara)
+* **Booking**: 08112952803 (Sisca)
+
+<hr class="divider">
+
+### Hotel Asana Grove
+<div class="slides-container">
+  <ul class="rslides" id="slider-asana">
+    <li><img src="{{ site.baseurl }}/assets/img/asana/asana-grove-bedroom-1.jpg" alt=""><p class="caption">Hotel Asana Grove - Bedroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/asana/asana-grove-bedroom-2.jpg" alt=""><p class="caption">Hotel Asana Grove - Bedroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/asana/asana-grove-bedroom-3.jpg" alt=""><p class="caption">Hotel Asana Grove - Bedroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/asana/asana-grove-bathroom.jpg" alt=""><p class="caption">Hotel Asana Grove - Bathroom</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/asana/asana-grove-exterior.jpg" alt=""><p class="caption">Hotel Asana Grove - Exterior</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/asana/asana-grove-lobby.jpg" alt=""><p class="caption">Hotel Asana Grove - Lobby</p></li>
+    <li><img src="{{ site.baseurl }}/assets/img/asana/asana-grove-restaurant.jpg" alt=""><p class="caption">Hotel Asana Grove - Restaurant</p></li>
+  </ul>
+</div>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1uN6pRFO71NF0EYRG7m9XVyDIBPeducDn" width="100%" height="300"></iframe>
+Hotel ini berada di Jl. Rukun Pertiwi No.53 yang berjarak 1 kilometer dari venue J150K Endurance Balai Kota Yogyakarta.
+
+* **Harga room (include breakfast)**: Rp. 350.000
+* **Website**: [https://www.asanahotels.com/id/hotel/detail/asana_groove__yogyakarta](https://www.asanahotels.com/id/hotel/detail/asana_groove__yogyakarta)
+* **Booking**: 08112952803 (Sisca)
+
+> #### Informasi ketersediaan kamar dan booking: 08112952803 (Sisca)

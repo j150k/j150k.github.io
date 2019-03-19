@@ -5,17 +5,17 @@ url: "https://www.j150k.com/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: J150K
+  title: J150K Endurance
   avatar: assets/img/logo.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "J150K Endurance" # used by search engines
+  description: "Event Ketahanan Bersepeda Lipat (Endurance) Sejauh 150 Km Mengelilingi Yogyakarta." # used by search engines
 
   # Header and footer text
   header_text:
   header_text_feature_image:
   footer_text: >
-   &copy; Copyright 2019 | Proudly present by <a href="https://jogjafoldingbike.id">Jogjafoldingbike</a>
+   &copy; Copyright 2019 - Proudly present by <a href="https://jogjafoldingbike.id">Jogjafoldingbike</a>
 
   # Icons
   rss: false
@@ -41,7 +41,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-136515797-1 # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
   search: false # Enable the search feature
@@ -50,8 +50,8 @@ theme_settings:
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next_post: "Selanjutnya post"
-  str_previous_post: "Sebelumnya post"
+  str_next_post: "Selanjutnya"
+  str_previous_post: "Sebelumnya"
   str_next_page: "Next"
   str_previous_page: "Prev"
   str_continue_reading: "Baca Lebih Lanjut"

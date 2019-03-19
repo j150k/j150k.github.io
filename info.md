@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Informasi Event
-subtitle: "Informasi Event, Rute, Fasilitas"
+subtitle: "Informasi Event, Fasilitas, Design Apparel, Rundown, Rute, Peraturan"
 permalink: /info/
 feature-img:
 ---
+![J150K Endurance]({{ site.baseurl }}/assets/img/gambar-info-page.jpg "J150K Endurance")
 
 **J150K Endurance adalah event bersepeda lipat dengan menempuh jarak +/- 150 Km.**
 
@@ -12,15 +13,19 @@ Mengulang kesuksesan J150K 2013 dan J150K 2017, di usia yang ke-10 tahun Jogja F
 
 ###  Fasilitas
 
-Jersey, cycling cap, asuransi, musette bag, rehidrasi selama event, makan siang, medali. Berkesempatan mendapat doorprize sepeda brompton, dan hadiah hiburan lain.
+T-shirt dri fit, cycling cap, musette bag, asuransi, rehidrasi selama event, makan siang, makan malam, medali. Doorprize utama sepeda brompton, dan banyak doorprize lainnya.
 
-### Jersey
+### Design T-shirt Dryfit
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam cursus, velit ut aliquet tempus, lacus nisl rutrum nibh, sit amet pulvinar urna risus vel quam. Maecenas molestie purus at finibus aliquam.  
+Akan diinfokan kemudian.
+
+### Rundown Event
+
+Akan diinfokan kemudian.
 
 ### Rute
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam cursus, velit ut aliquet tempus, lacus nisl rutrum nibh, sit amet pulvinar urna risus vel quam. Maecenas molestie purus at finibus aliquam.
+Akan diinfokan kemudian.
 
 ### Peraturan
 
