@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="feature-image">
-  <header {% if page.feature-img %}style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')"{% endif %} class="blue-navy">
+  <header class="blue-navy">
     <h1 class="title">{{ page.title }}</h1>
     {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
     <p class="meta">
@@ -10,7 +10,12 @@ layout: default
       {% if page.author %} - {{ page.author }}{% endif %}
     </p>
   </header>
-  <section class="post-content">{{ content }}</section>
+  <section class="post-content">
+    {% if page.noimage != true %}
+      {% if page.image %}<img src="{{ page.image }}">{% endif %}
+    {% endif %}
+    {{ content }}
+  </section>
   {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
 </article>
 

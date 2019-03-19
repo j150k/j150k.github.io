@@ -5,6 +5,8 @@ permalink: /kontak/
 feature-img:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam cursus, velit ut aliquet tempus, lacus nisl rutrum nibh, sit amet pulvinar urna risus vel quam. Maecenas molestie purus at finibus aliquam. In et consectetur dolor, eu hendrerit ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque sit amet ipsum eget quam eleifend scelerisque. Vivamus finibus nisl dui, non finibus risus aliquam at. Vestibulum nec gravida orci, ut tempus nunc. Nulla eros ex, euismod vitae nisi non, tempor aliquam diam. Nullam tempor in ex id ultricies.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSevI0GBuJoco5UFM7zC761VY4tEh_xWwv8-kZnUH1D2GpFmLA/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-> Generated 1 paragraph, 91 words, 588 bytes of Lorem Ipsum
+Follow social media kami untuk mendapatkan informasi terkini tentang J150K Endurance:  
+* Facebook: [Jogjafoldingbike](https://www.facebook.com/groups/Pengurus.JFB/)  
+* Instagram: [@jogjafoldingbike](https://www.instagram.com/jogjafoldingbike/)  

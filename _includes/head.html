@@ -17,11 +17,9 @@
 	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | relative_url }}" />
 
 	<!-- Edit by Spica: responsive slides -->
-	{% if page.layout == 'home' %}
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<link rel="stylesheet" href="{{ "/assets/css/responsiveslides.css" | relative_url }}">
 	<script src="{{ site.baseurl }}/assets/js/responsiveslides.min.js"></script>
-	{% endif %}
 
 	<!-- Font Awesome -->
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -53,6 +51,15 @@
 	{% if page.layout == 'home' %}
 	<script>
 		$(function () { $("#slider").responsiveSlides({ auto: true, nav: true, speed: 500}); });
+	</script>
+	{% endif %}
+	{% if page.layout == 'page' %}
+	<script>
+		$(function () { $("#slider-gaia").responsiveSlides({ auto: false, nav: true, speed: 500}); });
+		$(function () { $("#slider-pop").responsiveSlides({ auto: false, nav: true, speed: 500}); });
+		$(function () { $("#slider-hom").responsiveSlides({ auto: false, nav: true, speed: 500}); });
+		$(function () { $("#slider-fave").responsiveSlides({ auto: false, nav: true, speed: 500}); });
+		$(function () { $("#slider-asana").responsiveSlides({ auto: false, nav: true, speed: 500}); });
 	</script>
 	{% endif %}
 </head>

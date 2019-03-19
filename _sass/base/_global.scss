@@ -17,6 +17,7 @@ html {
 // Typography
 ::selection {
   background: $selection-color;
+  color: #fff;
 }
 ::-moz-selection {
   background: $selection-color;
