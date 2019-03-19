@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pendaftaran
+title: Registrasi
 permalink: /daftar/
 feature-img:
 ---
