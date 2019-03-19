@@ -64,7 +64,7 @@ Hotel ini berada di Jl. Ipda Tut Harsono No.16 yang hanya berjarak 200 meter dar
 <iframe src="https://www.google.com/maps/d/embed?mid=1Xxk7KFuRErW_7uWxNONnpmVYJOuHaxhD" width="100%" height="300"></iframe>
 Hotel ini berada di Jl. Ipda Tut Harsono No.11 yang hanya berjarak 200 meter dari venue J150K Endurance Balai Kota Yogyakarta.
 
-* **Harga room (include breakfast)**: Rp. 375.000
+* **Harga room (include breakfast)**: Rp. 325.000
 * **Website**: [https://www.pophotels.com/POP!-Timoho](https://www.pophotels.com/POP!-Timoho)
 * **Booking**: 08112952803 (Sisca)
 
@@ -83,7 +83,7 @@ Hotel ini berada di Jl. Ipda Tut Harsono No.11 yang hanya berjarak 200 meter dar
 <iframe src="https://www.google.com/maps/d/embed?mid=1aLUWVg9ssEqDrAXFJP0xWlBPaxCJjg_q" width="100%" height="300"></iframe>
 Hotel ini berada di Jl. Ipda Tut Harsono No.22 yang hanya berjarak 200 meter dari venue J150K Endurance Balai Kota Yogyakarta.
 
-* **Harga room (include breakfast)**: Rp. 400.000
+* **Harga room (include breakfast)**: Rp. 375.000
 * **Website**: [http://www.horison-group.com/hotels/58/%40Hom+Premiere+Timoho+by+Horison](http://www.horison-group.com/hotels/58/%40Hom+Premiere+Timoho+by+Horison)
 * **Booking**: 08112952803 (Sisca)
 
