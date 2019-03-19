@@ -5,4 +5,4 @@ permalink: /peserta/
 feature-img:
 ---
 
-Peserta J150K Endurance yang telah terdaftar dan menyelesaikan pembayaran akan ditampilkan disini.
+Peserta J150K Endurance akan ditampilkan disini.
