@@ -15,9 +15,11 @@ Mengulang kesuksesan J150K 2013 dan J150K 2017, di usia yang ke-10 tahun Jogja F
 
 T-shirt dri fit, cycling cap, musette bag, asuransi, rehidrasi selama event, makan siang, makan malam, medali. Doorprize utama sepeda brompton, dan banyak doorprize lainnya.
 
-### Design T-shirt Dryfit
+### Design T-shirt Dri fit, Cycling Cap, Musette Bag
 
-Akan diinfokan kemudian.
+![J150K Endurance]({{ site.baseurl }}/assets/img/cycling-cap-musette-bag.jpg "J150K Endurance")
+
+Design jersey akan diinfokan kemudian.
 
 ### Rundown Event
 
