@@ -7,7 +7,7 @@ feature-img:
 ---
 
 <div class="flexcontainer pagegallery">
-    <img class="flexhalf" src="{{ site.baseurl }}/assets/img/gallery/2.jpg">
+    <img class="flexhead" src="{{ site.baseurl }}/assets/img/gallery/2.jpg">
 </div>
 
 <div class="flexcontainer pagegallery">
@@ -17,7 +17,7 @@ feature-img:
 </div>
 
 <div class="flexcontainer pagegallery">
-    <img class="flexhalf" src="{{ site.baseurl }}/assets/img/gallery/13.jpg">
+    <img class="flexhead" src="{{ site.baseurl }}/assets/img/gallery/13.jpg">
 </div>
 
 <div class="flexcontainer pagegallery">
@@ -27,7 +27,7 @@ feature-img:
 </div>
 
 <div class="flexcontainer pagegallery">
-    <img class="flexhalf" src="{{ site.baseurl }}/assets/img/gallery/24.jpg">
+    <img class="flexhead" src="{{ site.baseurl }}/assets/img/gallery/24.jpg">
 </div>
 
 <div class="flexcontainer pagegallery">
@@ -37,7 +37,7 @@ feature-img:
 </div>
 
 <div class="flexcontainer pagegallery">
-    <img class="flexhalf" src="{{ site.baseurl }}/assets/img/gallery/35.jpg">
+    <img class="flexhead" src="{{ site.baseurl }}/assets/img/gallery/35.jpg">
 </div>
 
 <div class="flexcontainer pagegallery">
