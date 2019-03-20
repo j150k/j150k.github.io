@@ -16,13 +16,21 @@
 	<!-- RSS -->
 	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | relative_url }}" />
 
-	<!-- Edit by Spica: responsive slides -->
+	<!-- Jquery -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	<!-- Data table-->
+	<script src="{{ site.baseurl }}/assets/js/datatables.min.js"></script>
+
+	<!-- Responsive slides -->
 	<link rel="stylesheet" href="{{ "/assets/css/responsiveslides.css" | relative_url }}">
 	<script src="{{ site.baseurl }}/assets/js/responsiveslides.min.js"></script>
 
 	<!-- Font Awesome -->
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Data table-->
+	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/datatables.min.css" rel="stylesheet">
 
 	<!-- Google Fonts -->
 	{% if site.theme_settings.google_fonts %}
@@ -55,6 +63,7 @@
 	{% endif %}
 	{% if page.layout == 'page' %}
 	<script>
+		$(document).ready(function() { $('#peserta').DataTable({ "order": [[ 1, "asc" ]] }); } );
 		$(function () { $("#slider-gaia").responsiveSlides({ auto: false, nav: true, speed: 500}); });
 		$(function () { $("#slider-pop").responsiveSlides({ auto: false, nav: true, speed: 500}); });
 		$(function () { $("#slider-hom").responsiveSlides({ auto: false, nav: true, speed: 500}); });
