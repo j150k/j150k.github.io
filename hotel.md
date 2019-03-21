@@ -41,7 +41,7 @@ Hotel | Single Bed  | Twin Bed
 <iframe src="https://www.google.com/maps/d/embed?mid=1Lfx0fGynpO260FPH2bIRxJxtDEgk2c77" width="100%" height="300"></iframe>
 Hotel ini berada di Jl. Ipda Tut Harsono No.16 yang hanya berjarak 200 meter dari venue J150K Endurance Balai Kota Yogyakarta.
 
-* **Harga room (include breakfast)**: Rp. 680.000
+* **Harga room per malam (include breakfast)**: Rp. 680.000
 * **Website**: [https://gaiacosmo.com/](https://gaiacosmo.com/)
 * **Booking**: 08112952803 (Sisca)
 
@@ -64,7 +64,7 @@ Hotel ini berada di Jl. Ipda Tut Harsono No.16 yang hanya berjarak 200 meter dar
 <iframe src="https://www.google.com/maps/d/embed?mid=1Xxk7KFuRErW_7uWxNONnpmVYJOuHaxhD" width="100%" height="300"></iframe>
 Hotel ini berada di Jl. Ipda Tut Harsono No.11 yang hanya berjarak 200 meter dari venue J150K Endurance Balai Kota Yogyakarta.
 
-* **Harga room (include breakfast)**: Rp. 325.000
+* **Harga room per malam (include breakfast)**: Rp. 325.000
 * **Website**: [https://www.pophotels.com/POP!-Timoho](https://www.pophotels.com/POP!-Timoho)
 * **Booking**: 08112952803 (Sisca)
 
@@ -83,7 +83,7 @@ Hotel ini berada di Jl. Ipda Tut Harsono No.11 yang hanya berjarak 200 meter dar
 <iframe src="https://www.google.com/maps/d/embed?mid=1aLUWVg9ssEqDrAXFJP0xWlBPaxCJjg_q" width="100%" height="300"></iframe>
 Hotel ini berada di Jl. Ipda Tut Harsono No.22 yang hanya berjarak 200 meter dari venue J150K Endurance Balai Kota Yogyakarta.
 
-* **Harga room (include breakfast)**: Rp. 375.000
+* **Harga room per malam (include breakfast)**: Rp. 375.000
 * **Website**: [http://www.horison-group.com/hotels/58/%40Hom+Premiere+Timoho+by+Horison](http://www.horison-group.com/hotels/58/%40Hom+Premiere+Timoho+by+Horison)
 * **Booking**: 08112952803 (Sisca)
 
@@ -104,7 +104,7 @@ Hotel ini berada di Jl. Ipda Tut Harsono No.22 yang hanya berjarak 200 meter dar
 <iframe src="https://www.google.com/maps/d/embed?mid=1aEwuLTLbatcHBVqA6kUNtBck7GonFvGL" width="100%" height="300"></iframe>
 Hotel ini berada di Jl. Kusumanegara No.91 yang berjarak 800 meter dari venue J150K Endurance Balai Kota Yogyakarta.
 
-* **Harga room (include breakfast)**: Rp. 370.000
+* **Harga room per malam (include breakfast)**: Rp. 370.000
 * **Website**: [https://www.favehotels.com/en/hotel/view/28/favehotel-kusumanegara](https://www.favehotels.com/en/hotel/view/28/favehotel-kusumanegara)
 * **Booking**: 08112952803 (Sisca)
 
@@ -126,7 +126,7 @@ Hotel ini berada di Jl. Kusumanegara No.91 yang berjarak 800 meter dari venue J1
 <iframe src="https://www.google.com/maps/d/embed?mid=1uN6pRFO71NF0EYRG7m9XVyDIBPeducDn" width="100%" height="300"></iframe>
 Hotel ini berada di Jl. Rukun Pertiwi No.53 yang berjarak 1 kilometer dari venue J150K Endurance Balai Kota Yogyakarta.
 
-* **Harga room (include breakfast)**: Rp. 350.000
+* **Harga room per malam (include breakfast)**: Rp. 350.000
 * **Website**: [https://www.asanahotels.com/id/hotel/detail/asana_groove__yogyakarta](https://www.asanahotels.com/id/hotel/detail/asana_groove__yogyakarta)
 * **Booking**: 08112952803 (Sisca)
 
