@@ -4,6 +4,9 @@ title: Peserta
 permalink: /peserta/
 feature-img:
 ---
+
+`⚠ LAST UPDATE: 25 MARET 2019 - 15:29 WIB. Bagi peserta yang telah membayar tetapi belum tertulis "LUNAS" diharapkan menghubungi hotline konfirmasi pembayaran dibawah"`  
+
 Selamat dan terima kasih untuk Om & Tante yang telah berhasil melakukan registrasi. 😊  
 
 > Bagi Om & Tante yang belum mendapatkan email balasan karena kendala teknis, silahkan melakukan pembayaran sejumlah **Total pembayaran** yang **bisa dilihat di tabel dibawah** ke:
@@ -35,6 +38,7 @@ https://www.j150k.com
           <th>Komunitas/Kota Asal</th>
           <th>Ukuran T-shirt Drifit</th>
           <th>Total Pembayaran</th>
+          <th>Keterangan</th>
       </tr>
   </thead>
   <tbody>
@@ -47,6 +51,7 @@ https://www.j150k.com
       <th>Komunitas/Kota Asal</th>
       <th>Ukuran T-shirt Drifit</th>
       <th>Total Pembayaran</th>
+      <th>Keterangan</th>
     </tr>
   </tfoot>
 </table>
