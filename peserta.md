@@ -5,7 +5,7 @@ permalink: /peserta/
 feature-img:
 ---
 
-`⚠ LAST UPDATE: 26 MARET 2019 - 23.00 WIB. Bagi peserta yang telah membayar tetapi belum tertulis "LUNAS" diharapkan menghubungi hotline konfirmasi pembayaran dibawah"`  
+`⚠ LAST UPDATE: 27 MARET 2019 - 14.45 WIB. Bagi peserta yang telah membayar tetapi belum tertulis "LUNAS" diharapkan menghubungi hotline konfirmasi pembayaran dibawah"`  
 
 Selamat dan terima kasih untuk Om & Tante yang telah berhasil melakukan registrasi. 😊  
 
