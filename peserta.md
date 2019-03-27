@@ -5,7 +5,7 @@ permalink: /peserta/
 feature-img:
 ---
 
-`⚠ LAST UPDATE: 27 MARET 2019 - 22.54 WIB. Update list peserta yang telah membayar & konfirmasi. `  
+`⚠ LAST UPDATE: 28 MARET 2019 - 00.00 WIB. Update list peserta yang telah membayar & konfirmasi. `  
 
 {% comment %} <!--
 Selamat dan terima kasih untuk Om & Tante yang telah berhasil melakukan registrasi. 😊  
