@@ -5,9 +5,8 @@ permalink: /peserta/
 feature-img:
 ---
 
-`⚠ LAST UPDATE: 28 MARET 2019 - 00.00 WIB. Update list peserta yang telah membayar & konfirmasi. `  
+`⚠ LAST UPDATE: 01 APRIL 2019 - 21.50 WIB. `  
 
-{% comment %} <!--
 Selamat dan terima kasih untuk Om & Tante yang telah berhasil melakukan registrasi. 😊  
 
 > Bagi Om & Tante yang belum mendapatkan email balasan karena kendala teknis, silahkan melakukan pembayaran sejumlah **Total pembayaran** yang **bisa dilihat di tabel dibawah** ke:
@@ -18,11 +17,10 @@ A/n Dyah Purwanti Budi Wahyuni/Sisca Wulandari
 
 ### Konfirmasi pembayaran via WA: 0813-2978-0413  
 
-**Batas akhir pembayaran adalah 27 Maret 2019 pukul 23:59 WIB
+**Batas akhir pembayaran adalah 02 April 2019 pukul 23:59 WIB (1 x 24 jam)
 Apabila tidak melakukan pembayaran dan mengkonfirmasi, maka pendaftaran dibatalkan.**
 
---> {% endcomment %}
-
+{% comment %} <!--
 Selamat dan terima kasih untuk Om & Tante yang telah berhasil melakukan registrasi dan melakukan pembayaran. 😊  
 
 > Batas akhir pembayaran adalah **27 Maret 2019 pukul 23:59 WIB**.
@@ -31,7 +29,10 @@ Apabila tidak melakukan pembayaran dan mengkonfirmasi, maka pendaftaran dibatalk
 Bagi Om & Tante yang gagal melakukan pembayaran, dengan menyesal **pendaftarannya dibatalkan dan namanya kami hapus dari list**.  
 
 Apabila terdapat kesalahan bisa langsung menghubungi hotline dibawah.
+
 ### Hotline pembayaran via WA: 0813-2978-0413
+
+--> {% endcomment %}
 
 Terima kasih.  
 
