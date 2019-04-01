@@ -5,7 +5,7 @@ permalink: /daftar/
 feature-img:
 ---
 
-![J150K Endurance]({{ site.baseurl }}/assets/img/flyer-kuota-tambahan.jpg "J150K Endurance")  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cGs2-p-PRy0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 Registrasi kuota tambahan J150K Endurance akan dibuka **Senin, 01 April 2019 pukul 20.19 WIB**.
 
@@ -13,13 +13,13 @@ Persiapkan data: email, nama lengkap, tgl lahir, alamat & kodepos, nama komunita
 
 Selamat berjuang!   
 
-{%comment%}
-
 <hr>
 
 <div style="text-align: center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdMI1amko4mQss-czsZuSCx23jvhLQ8m95NhbHxX7TVdWjusA/viewform?usp=sf_link" class="button">Link Registrasi (KLIK DISINI)</a>
 </div>
+
+{%comment%}
 
 ## Registrasi ditutup.
 
