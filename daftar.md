@@ -4,7 +4,22 @@ title: Registrasi
 permalink: /daftar/
 feature-img:
 ---
-<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdGOGN9xWcDskfh4nF1sfPLv6bO56FQHGS6T4wTiJ_TTLbmLg/viewform?embedded=true" width="100%" height="2600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> -->
+
+![J150K Endurance]({{ site.baseurl }}/assets/img/flyer-kuota-tambahan.jpg "J150K Endurance")  
+
+Registrasi kuota tambahan J150K Endurance akan dibuka **Senin, 01 April 2019 pukul 20.19 WIB**.
+
+Persiapkan data: email, nama lengkap, tgl lahir, alamat & kodepos, nama komunitas / kota asal, no hp, no kontak darurat, gol darah.   
+
+Selamat berjuang!   
+
+{%comment%}
+
+<hr>
+
+<div style="text-align: center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdMI1amko4mQss-czsZuSCx23jvhLQ8m95NhbHxX7TVdWjusA/viewform?usp=sf_link" class="button">Link Registrasi (KLIK DISINI)</a>
+</div>
 
 ## Registrasi ditutup.
 
@@ -15,3 +30,5 @@ Terima kasih atas antusiasme Om & Tante semuanya. Sampai jumpa di Jogja 😊
 Untuk melihat list peserta (no registrasi, cara pembayaran) silahkan menuju ke halaman [Peserta](/peserta/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bqun_EIRMpo?start=305" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{%endcomment%}
