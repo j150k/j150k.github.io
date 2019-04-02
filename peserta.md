@@ -5,9 +5,11 @@ permalink: /peserta/
 feature-img:
 ---
 
-`⚠ LAST UPDATE: 02 APRIL 2019 - 16.30 WIB. `  
+`⚠ LAST UPDATE: 02 APRIL 2019 - 23.30 WIB. `  
 
-Selamat dan terima kasih untuk Om & Tante yang telah berhasil melakukan registrasi. 😊  
+{% comment %} <!--
+
+Selamat dan terima kasih untuk Om & Tante yang telah berhasil melakukan registrasi. 😊
 
 > Bagi Om & Tante yang belum mendapatkan email balasan karena kendala teknis, silahkan melakukan pembayaran sejumlah **Total pembayaran** yang **bisa dilihat di tabel dibawah** ke:
 
@@ -20,13 +22,16 @@ A/n Dyah Purwanti Budi Wahyuni/Sisca Wulandari
 **Batas akhir pembayaran adalah 02 April 2019 pukul 23:59 WIB (1 x 24 jam)
 Apabila tidak melakukan pembayaran dan mengkonfirmasi, maka pendaftaran dibatalkan.**
 
-{% comment %} <!--
+--> {% endcomment %}
+
 Selamat dan terima kasih untuk Om & Tante yang telah berhasil melakukan registrasi dan melakukan pembayaran. 😊  
 
-> Batas akhir pembayaran adalah **27 Maret 2019 pukul 23:59 WIB**.
+> Batas akhir pembayaran adalah **02 April 2019 pukul 23:59 WIB (1 x 24 jam)**.
 Apabila tidak melakukan pembayaran dan mengkonfirmasi, maka pendaftaran dibatalkan.
 
 Bagi Om & Tante yang gagal melakukan pembayaran, dengan menyesal **pendaftarannya dibatalkan dan namanya kami hapus dari list**.  
+
+{% comment %} <!--
 
 Apabila terdapat kesalahan bisa langsung menghubungi hotline dibawah.
 
@@ -34,7 +39,7 @@ Apabila terdapat kesalahan bisa langsung menghubungi hotline dibawah.
 
 --> {% endcomment %}
 
-Terima kasih.  
+Terima kasih, sampai jumpa di Jogja!  
 
 Salam,  
 Panitia J150K Endurance  
