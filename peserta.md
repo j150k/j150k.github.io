@@ -5,7 +5,7 @@ permalink: /peserta/
 feature-img:
 ---
 
-`⚠ LAST UPDATE: 01 APRIL 2019 - 21.50 WIB. `  
+`⚠ LAST UPDATE: 02 APRIL 2019 - 16.30 WIB. `  
 
 Selamat dan terima kasih untuk Om & Tante yang telah berhasil melakukan registrasi. 😊  
 
