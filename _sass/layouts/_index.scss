@@ -3,7 +3,7 @@
   @extend %padding-regular;
   width: 100%;
   background-size: cover;
-
+  overflow: hidden;
 }
 .section p:last-child {
   margin-bottom: 0;
