@@ -36,16 +36,18 @@
 }
 .sponsor{
   text-align: center;
+  list-style: none;
+  margin: 1em 0;
 }
-.sponsor img{
+.sponsor li{
   padding: $padding-small/4;
   display: inline-block;
-  margin: 0 auto;
   border-radius: 1em;
 }
 .sponsor img.spone{
-  @media (max-width: 700px) {
-    width: 80%;
+  height: 80px;
+  @media (min-width: 1024px) {
+    height: 90px;
   }
 }
 .shortcut{
