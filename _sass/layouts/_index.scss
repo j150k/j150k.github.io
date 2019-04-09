@@ -37,17 +37,41 @@
 .sponsor{
   text-align: center;
   list-style: none;
-  margin: 1em 0;
+  margin: 0;
 }
 .sponsor li{
-  padding: $padding-small/4;
+  margin: $padding-small/4;
+  padding: $padding-small/4 $padding-small/4 $padding-small/8;
   display: inline-block;
-  border-radius: 1em;
+  border: 2px solid #eaeaea;
+  border-radius: 0.5em;
+  vertical-align: center;
 }
-.sponsor img.spone{
-  height: 80px;
-  @media (min-width: 1024px) {
-    height: 90px;
+.sponsor .spmain{
+  img{
+    height: 100px;
+    @media (min-width: 1024px) {
+      height: 100px;
+    }
+  }
+}
+.sponsor .spone {
+  img{
+    height: 80px;
+    @media (min-width: 1024px) {
+      height: 100px;
+    }
+  }
+  img.sesatu{
+    border-radius: 0.4em;
+  }
+}
+.sponsor .sptwo{
+  img{
+    height: 50px;
+    @media (min-width: 1024px) {
+      height: 50px;
+    }
   }
 }
 .shortcut{
