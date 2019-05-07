@@ -10,8 +10,8 @@ Panitia J150K Endurance bekerja sama dengan beberapa hotel di dekat venue untuk 
 
 <hr>
 
-**Kamar tersedia, setiap kamar dapat ditempati 2 orang**  
-*Update: 19/03/2019 - 07.30 WIB*
+**Setiap kamar dapat ditempati 2 orang**  
+{% comment %}*Update: 19/03/2019 - 07.30 WIB*
 
 Hotel | Single Bed  | Twin Bed
 --- | --- | ---
@@ -20,6 +20,7 @@ Hotel | Single Bed  | Twin Bed
 **@HOM Premiere** | 54 | 54
 **Favehotel Kusumanegara** | 41 | 58
 **Asana Grove** | 23 | 15
+{% endcomment %}
 
 > #### Informasi ketersediaan kamar dan booking: 08112952803 (Sisca)
 
