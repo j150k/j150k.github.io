@@ -23,12 +23,13 @@ T-shirt dri fit, cycling cap, musette bag, asuransi, rehidrasi selama event, mak
 
 ### Design T-shirt Dri fit, Cycling Cap, Musette Bag
 
-![J150K Endurance]({{ site.baseurl }}/assets/img/cycling-cap-musette-bag.jpg "J150K Endurance")  
 ![J150K Endurance]({{ site.baseurl }}/assets/img/t-shirt.jpg "J150K Endurance")
+![J150K Endurance]({{ site.baseurl }}/assets/img/cycling-cap.jpg "J150K Endurance")
+![J150K Endurance]({{ site.baseurl }}/assets/img/musette-bag.jpg "J150K Endurance")
 
 ### Rundown Event
 
-Akan diinfokan kemudian.
+![J150K Endurance]({{ site.baseurl }}/assets/img/rundown-j150k-website.jpg "J150K Endurance")
 
 ### Rute
 
