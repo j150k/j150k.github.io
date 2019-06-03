@@ -33,7 +33,10 @@ T-shirt dri fit, cycling cap, musette bag, asuransi, rehidrasi selama event, mak
 
 ### Rute
 
-Akan diinfokan kemudian.
+<iframe src="https://www.google.com/maps/d/embed?mid=140QNUKJ2Mvo_RPvOq4PQI4_wuQfLigQL" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+![J150K Endurance Elevation]({{ site.baseurl }}/assets/img/elevation-info-j150k.jpg "J150K Endurance Elevation")
+
+<a href="{{ site.baseurl }}/j150k-endurance-2019.gpx">**Download GPX**</a> | <a target="_blank" href="https://www.strava.com/routes/18547540">**Strava Route**</a>
 
 ### Peraturan
 

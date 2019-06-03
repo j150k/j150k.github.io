@@ -5,7 +5,7 @@ permalink: /peserta/
 feature-img:
 ---
 
-`⚠ LAST UPDATE: 02 APRIL 2019 - 23.30 WIB. `  
+`⚠ LAST UPDATE: 03 JUNI 2019 - 13.10 WIB. `  
 
 {% comment %} <!--
 
@@ -26,12 +26,11 @@ Apabila tidak melakukan pembayaran dan mengkonfirmasi, maka pendaftaran dibatalk
 
 Selamat dan terima kasih untuk Om & Tante yang telah berhasil melakukan registrasi dan melakukan pembayaran. 😊  
 
+{% comment %} <!--
 > Batas akhir pembayaran adalah **02 April 2019 pukul 23:59 WIB (1 x 24 jam)**.
-Apabila tidak melakukan pembayaran dan mengkonfirmasi, maka pendaftaran dibatalkan.
+Apabila tidak melakukan pembayaran dan mengonfirmasi, maka pendaftaran dibatalkan.
 
 Bagi Om & Tante yang gagal melakukan pembayaran, dengan menyesal **pendaftarannya dibatalkan dan namanya kami hapus dari list**.  
-
-{% comment %} <!--
 
 Apabila terdapat kesalahan bisa langsung menghubungi hotline dibawah.
 
