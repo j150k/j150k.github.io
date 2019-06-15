@@ -5,9 +5,9 @@ permalink: /peserta/
 feature-img:
 ---
 
-`⚠ LAST UPDATE: 03 JUNI 2019 - 13.10 WIB. `  
-
 {% comment %} <!--
+
+`⚠ LAST UPDATE: 03 JUNI 2019 - 13.10 WIB. `  
 
 Selamat dan terima kasih untuk Om & Tante yang telah berhasil melakukan registrasi. 😊
 
@@ -46,7 +46,7 @@ https://www.j150k.com
 
 <hr>
 
-*Gunakan fasilitas "Search" untuk mencari berdasar nama / komunitas*
+`Gunakan fasilitas "Search" untuk mencari berdasar nama / komunitas`
 
 <table id="peserta" class="display" style="width:100%; padding: 1em 0;">
   <thead>
@@ -55,7 +55,7 @@ https://www.j150k.com
           <th>Nama</th>
           <th>Komunitas/Kota Asal</th>
           <th>Ukuran T-shirt Drifit</th>
-          <th>Total Pembayaran</th>
+          <!-- <th>Total Pembayaran</th> -->
           <th>Keterangan</th>
       </tr>
   </thead>
@@ -68,7 +68,7 @@ https://www.j150k.com
       <th>Nama</th>
       <th>Komunitas/Kota Asal</th>
       <th>Ukuran T-shirt Drifit</th>
-      <th>Total Pembayaran</th>
+      <!-- <th>Total Pembayaran</th> -->
       <th>Keterangan</th>
     </tr>
   </tfoot>
